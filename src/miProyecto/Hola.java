@@ -6,7 +6,7 @@ public class Hola {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hola mi proyecto");
-		
+		System.out.println("Hola otra vez jaja saludos equis de");
 	}
 
 }
